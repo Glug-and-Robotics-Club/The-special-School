@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "the-special-school",
+    "slug": "the-special-school",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "the-special-school"
+}

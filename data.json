@@ -1,87 +1,136 @@
 {
   "classes": [
     {
-      "id": 1,
-      "name": "Class 1",
+      "class_name": "Class 1",
       "subjects": [
         {
-          "id": 1,
-          "name": "English",
+          "subject_name": "English",
           "chapters": [
             {
-              "id": 1,
-              "title": "Introduction to English",
-              "subtitle": "Chapter 1",
-              "details": "This chapter covers the basics of the English language and its importance.",
-              "image": "english.png"
+              "chapter_number": "Ch1 part1",
+              "chapter_name": "A Happy Child",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/f32f397b-0c59-4c4b-afe3-9bd0abfcc580",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
             },
             {
-              "id": 2,
-              "title": "Grammar Basics",
-              "subtitle": "Chapter 2",
-              "details": "Explore the fundamental principles of English grammar for effective communication.",
-              "image": "english.png"
+              "chapter_number": "Ch1 part 2",
+              "chapter_name": "Three Little Pigs",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/f32f397b-0c59-4c4b-afe3-9bd0abfcc580",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
             },
             {
-              "id": 3,
-              "title": "Reading Comprehension",
-              "subtitle": "Chapter 3",
-              "details": "Enhance your reading skills and comprehension with this chapter's exercises.",
-              "image": "english.png"
+              "chapter_number": "Ch2 part1",
+              "chapter_name": "After a Bath",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/f32f397b-0c59-4c4b-afe3-9bd0abfcc580",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            },
+            {
+              "chapter_number": "Ch2 part2",
+              "chapter_name": "The Bubble, the Straw and the Shoe",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/f32f397b-0c59-4c4b-afe3-9bd0abfcc580",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            },
+            {
+              "chapter_number": "Ch3 part1",
+              "chapter_name": "One Little Kitten",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/f32f397b-0c59-4c4b-afe3-9bd0abfcc580",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            },
+            {
+              "chapter_number": "Ch3 part2",
+              "chapter_name": "Lallu and Pellu",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/f32f397b-0c59-4c4b-afe3-9bd0abfcc580",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
             }
           ]
         },
         {
-          "id": 2,
-          "name": "Hindi",
+          "subject_name": "Hindi",
           "chapters": [
             {
-              "id": 4,
-              "title": "Introduction to Hindi",
-              "subtitle": "Chapter A",
-              "details": "Learn the basics of the Hindi language, its script, and pronunciation.",
-              "image": "hindi.png"
+              "chapter_number": "Ch1",
+              "chapter_name": "झूला",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/50a18982-3a93-44b7-853d-1655e616cb76",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
             },
             {
-              "id": 5,
-              "title": "Grammar Fundamentals",
-              "subtitle": "Chapter B",
-              "details": "Understand the key principles of Hindi grammar to construct meaningful sentences.",
-              "image": "hindi.png"
-            },
-            {
-              "id": 6,
-              "title": "Hindi Literature",
-              "subtitle": "Chapter C",
-              "details": "Explore the rich literary heritage of Hindi with a focus on notable works.",
-              "image": "hindi.png"
+              "chapter_number": "Ch2",
+              "chapter_name": "आम की कहानी",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/50a18982-3a93-44b7-853d-1655e616cb76",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
             }
           ]
         },
         {
-          "id": 3,
-          "name": "Maths",
+          "subject_name": "Maths",
           "chapters": [
             {
-              "id": 7,
-              "title": "Algebra Basics",
-              "subtitle": "Chapter X",
-              "details": "Get introduced to the fundamental concepts of algebra and its applications.",
-              "image": "math.png"
+              "chapter_number": "ch1",
+              "chapter_name": "Shapes and Spaces",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/77869fba-8ae0-4acb-83bd-f7910ec0bcae",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
             },
             {
-              "id": 8,
-              "title": "Geometry Fundamentals",
-              "subtitle": "Chapter Y",
-              "details": "Explore the basic principles of geometry and geometric shapes.",
-              "image": "math.png"
+              "chapter_number": "ch2",
+              "chapter_name": "Numbers from One to Nine",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/77869fba-8ae0-4acb-83bd-f7910ec0bcae",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "class_name": "Class 2",
+      "subjects": [
+        {
+          "subject_name": "English",
+          "chapters": [
+            {
+              "chapter_number": "Ch1 part1",
+              "chapter_name": "FIRST DAY AT SCHOOL",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/f32f397b-0c59-4c4b-afe3-9bd0abfcc580",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
             },
             {
-              "id": 9,
-              "title": "Trigonometry Concepts",
-              "subtitle": "Chapter Z",
-              "details": "Understand trigonometric functions and their relevance in various fields.",
-              "image": "math.png"
+              "chapter_number": "Ch1 part2",
+              "chapter_name": "HALDI'S ADVENTURE",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/f32f397b-0c59-4c4b-afe3-9bd0abfcc580",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            }
+          ]
+        },
+        {
+          "subject_name": "Maths",
+          "chapters": [
+            {
+              "chapter_number": "Ch1",
+              "chapter_name": "What is long, what is round?",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/77869fba-8ae0-4acb-83bd-f7910ec0bcae",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            },
+            {
+              "chapter_number": "Ch2",
+              "chapter_name": "Counting in Groups",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/77869fba-8ae0-4acb-83bd-f7910ec0bcae",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            }
+          ]
+        },
+        {
+          "subject_name": "Hindi",
+          "chapters": [
+            {
+              "chapter_number": "Ch1",
+              "chapter_name": "ऊँट चला",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/50a18982-3a93-44b7-853d-1655e616cb76",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
+            },
+            {
+              "chapter_number": "Ch2",
+              "chapter_name": "भालू ने खेली फुटबॉल",
+              "image_link": "https://github.com/Glug-and-Robotics-Club/The-special-School/assets/147128242/50a18982-3a93-44b7-853d-1655e616cb76",
+              "divisions": ["Mind Maps", "Podcast", "Games", "Quiz"]
             }
           ]
         }
